@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hey, I'm Phin 👋
 
-<!--
-**Phineas/Phineas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an 18 year old developer and founder.
 
-Here are some ideas to get you started:
+## 🔭 Current
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working on [Hiven](https://hiven.io) - it's a chat platform built for the future. We're currently focussing on perfecting **monetized groups** to allow anyone to set up a paid group with ease.
+
+## ⚡️ Experience
+
+I like to say that I'm full-stack, but I'm very experienced in the real-time backend world. I highly leverage [Elixir](https://elixir-lang.org) to build scalable realtime systems, and I pair that with React on the frontend. I've been working with React for about 4 years, Elixir for almost 3, and JavaScript for more than 6 years.
+
+## 📫 Contact
+
+To contact me quickly and easily, [DM me on Twitter](https://twitter.com/phineyes)
+If it's something more business related, email me: phin@phineas.io
