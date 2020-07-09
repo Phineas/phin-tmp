@@ -12,5 +12,6 @@ I like to say that I'm full-stack, but I'm very experienced in the real-time bac
 
 ## 📫 Contact
 
-To contact me quickly and easily, [DM me on Twitter](https://twitter.com/phineyes)
+To contact me quickly and easily, [DM me on Twitter](https://twitter.com/phineyes).
+
 If it's something more business related, email me: phin@phineas.io
