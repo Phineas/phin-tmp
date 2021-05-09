@@ -4,7 +4,7 @@ I'm a 19 year old developer and founder.
 
 ## 🔭 Current
 
-I'm currently working on [Hiven](https://hiven.io) - it's a chat platform built for the future. We're currently focussing on perfecting **monetized groups** to allow anyone to set up a paid group with ease. I also work on [Giggl](https://giggl.app) - we're making it super easy for anyone to collaborate or watch anything online together using the concept of virtual cloud-hosted browsers.
+I'm currently working on [Giggl](https://giggl.app) - we're making it super easy for anyone to collaborate or watch anything online together using the concept of virtual cloud-hosted browsers.
 
 ## ⚡️ Experience
 
