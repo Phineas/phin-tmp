@@ -19,4 +19,4 @@ If it makes more sense, you can also email me:
 **General Inquiries:** phin@phineas.io  
 **Giggl-related Inquiries:** phin@giggl.app
 
-If your inquiry is related to a network I manage or control (e.g. AS399531), please send an email to my email listed on the respective WHOIS contact. If it's a P1 emergency, you can email ops@sakuraji.ma.
+If your inquiry is related to a network I manage or control (e.g. AS952 or AS399531), please send an email to my email listed on the respective WHOIS contact. If it's a P1 emergency, you can email ops@sakuraji.ma.
