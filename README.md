@@ -4,7 +4,7 @@ I'm a 20 year old developer and founder.
 
 ## 🔭 Current
 
-I'm currently working on [Giggl](https://giggl.app) - we're making it super easy for anyone to collaborate or watch anything online together using the concept of virtual cloud-hosted browsers.
+I'm currently working on [Hop](https://hop.io) - we're a cloud platform focusing on supporting real-time, high-bandwidth applications. With Hop Ignite, you can deploy _any_ app to Hop directly from GitHub and achieve global low-latency content delivery - it's super easy, and we'll automatically handle new builds and rollouts when you push to the main branch. :)
 
 ## ⚡️ Experience
 
@@ -17,6 +17,6 @@ To contact me quickly and easily, [DM me on Twitter](https://twitter.com/phineye
 If it makes more sense, you can also email me:
 
 **General Inquiries:** phin@phineas.io  
-**Giggl-related Inquiries:** phin@giggl.app
+**Hop-related Inquiries:** phin@hop.io
 
 If your inquiry is related to a network I manage or control (e.g. AS952 or AS399531), please send an email to my email listed on the respective WHOIS contact. If it's a P1 emergency, you can email ops@sakuraji.ma.
