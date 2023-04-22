@@ -1,6 +1,6 @@
 ### Hey, I'm Phin 👋
 
-I'm a 20 year old developer and founder.
+I'm a 21 year old developer and founder.
 
 ## 🔭 Current
 
